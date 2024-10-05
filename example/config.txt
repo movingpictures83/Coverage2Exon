@@ -1,0 +1,2 @@
+Prefix plugins/Coverage2Exon/example/
+Plugin Coverage2Exon inputfile regionmatrix.fullCov.rds outputfile exons.csv
